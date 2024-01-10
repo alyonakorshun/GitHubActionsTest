@@ -1,0 +1,5 @@
+C:\FILES\NEW TO SSD\GITHUB\GitHubActionsTest\GitHubActionsTest_API\obj\Debug\net6.0\GitHubActionsTest_API.csproj.AssemblyReference.cache
+C:\FILES\NEW TO SSD\GITHUB\GitHubActionsTest\GitHubActionsTest_API\obj\Debug\net6.0\GitHubActionsTest_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\FILES\NEW TO SSD\GITHUB\GitHubActionsTest\GitHubActionsTest_API\obj\Debug\net6.0\GitHubActionsTest_API.AssemblyInfoInputs.cache
+C:\FILES\NEW TO SSD\GITHUB\GitHubActionsTest\GitHubActionsTest_API\obj\Debug\net6.0\GitHubActionsTest_API.AssemblyInfo.cs
+C:\FILES\NEW TO SSD\GITHUB\GitHubActionsTest\GitHubActionsTest_API\obj\Debug\net6.0\GitHubActionsTest_API.csproj.CoreCompileInputs.cache
